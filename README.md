@@ -38,3 +38,11 @@ Replace the LinkedIn URL in `index.html` if your public LinkedIn profile URL is 
 
 ### Profile photo
 The portfolio includes `assets/profile-photo.jpg`, used in the hero section.
+
+
+## Portfolio links
+
+GitHub repository: https://github.com/Sknathan1984/kamatchinathan-portfolio
+
+GitHub Pages website (after Pages is enabled):
+https://Sknathan1984.github.io/kamatchinathan-portfolio/
